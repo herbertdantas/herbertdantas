@@ -1,5 +1,5 @@
 ### Olá, Eu sou O Herbert Dantas ✋
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-dantas-da-silva-a60887209/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herbert-dantas-da-silva-a60887209/)
 
 ![Herbert GitHub stats](https://github-readme-stats.vercel.app/api?username=herbertdantas&show_icons=true&theme=dracula)
 
